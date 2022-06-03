@@ -25,3 +25,6 @@
 
 11. Majority Element Using Hashing
 
+12. Largest Element in an Array
+
+13. Second Largest Element in an Array
