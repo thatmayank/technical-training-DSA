@@ -1,0 +1,27 @@
+1. Third Largest Element in an Array
+
+2. Span of an Array - Difference b/w the max and min element of array
+
+3. Convert Array into Zig Zag Fashion - a < b > c < d > e < f -> HW
+
+4. Subtraction of Array -> HW
+
+5. Find Odd Element from sorted array
+    (All the elements are appeared twice except for one) -> HW
+    I/P : [2,1,3,5,6,1,3,5]
+    O/P : 6
+
+6. Pair Difference
+
+7. Leader Element
+
+9. Frequency in sorted array - HW
+    arr : {10,10,10,25,31,31,32};
+    o/p : 10 3, 25 1, 31 2, 31 1
+
+10. Arrange positive and negative numbers - HW
+    arr : [10,21,-11,-20,15,19,-30]
+    o/p : [-11,-20,-30,10,15,19]
+
+11. Majority Element Using Hashing
+
